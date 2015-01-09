@@ -1,5 +1,21 @@
-.heading {
-	font-family: OpenSans;
-  padding-top: 50px;
+body {
+	font-family: Helvetica;
+  padding-top: 200px;
   padding-bottom: 50px;
+	margin-bottom: 25px;
+	text-align: center;
+	background-image: url("../img/ja.jpg");
+	color: #fff;
+}
+
+h2 {
+	font-size: 600%;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 25px;
 }
